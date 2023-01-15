@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-fsnGdle9LU](https://www.frontendmentor.io/solutions/testimonials-grid-section-fsnGdle9LU)
+- Live Site URL: [https://geelloo.github.io/testimonials-grid-section/](https://geelloo.github.io/testimonials-grid-section/)
 
 ## My process
 
