@@ -10,6 +10,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -39,6 +41,14 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### What I learned
+
+I learned how to use the \<figure\>, \<figcaption> and \<blockquote> HTML elements for better accessiblity and markup and I also learned how to use the _filter_ CSS property.
+
+### Useful resources
+
+- [Quoting in HTML: Quotations, Citations, and Blockquotes](https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/#aa-hey-what-about-the-figure-element) - An article explaining in details the use of quotations with HTML5
 
 ## Author
 
